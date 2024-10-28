@@ -1,0 +1,1 @@
+a dice game.where you select a number then throw a dice. if the dice number is equal to your selected number you will score same point else you will lose 2 points.
